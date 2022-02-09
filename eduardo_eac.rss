@@ -54,8 +54,8 @@
         <link>https://github.com/EdgeFF/RSS/blob/main/eduardo_eac.rss</link>
         <description>El MMO mas exitoso a nivel mundial anuncia su nuevo evento para San Valentín</description>
         <author>a21alcaed@iesgrancapitan.org</author>
-         <enclosure url="https://image.api.playstation.com/vulcan/img/rnd/202105/1414/4IfMDkNronZoUUWW6KeHxz2I.png"
-        length="78645" type="image/png"></enclosure>
+         <enclosure url="https://sm.ign.com/ign_es/news/f/final-fant/final-fantasy-14-endwalker-expansion-announced-for-fall-2021_g23c.jpg"
+        length="78645" type="image/jpg"></enclosure>
         <pubDate>Wed, 02 Oct 2002 13:00:00 GMT</pubDate>
          <source url="https://www.finalfantasyxiv.com/">FFXIV</source>
     </item>
@@ -65,8 +65,8 @@
         <link>https://github.com/EdgeFF/RSS/blob/main/eduardo_eac.rss</link>
         <description>Celeste el juego de plataformas nos pondra el reto de escalar una gran montaña</description>
         <author>a21alcaed@iesgrancapitan.org</author>
-        <enclosure url="https://image.api.playstation.com/cdn/EP2120/CUSA11235_00/c439UdvQsGkHpQ04PGyPh7rwGfXwLtne.png"
-        length="78645" type="image/png"></enclosure>
+        <enclosure url="https://sm.ign.com/ign_es/cover/c/celeste/celeste_xcru.jpg"
+        length="78645" type="image/jpg"></enclosure>
         <pubDate>Wed, 02 Oct 2002 13:00:00 GMT</pubDate>
         <source url="https://store.steampowered.com/app/504230/Celeste/">Celeste</source>
     </item>
