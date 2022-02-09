@@ -9,21 +9,21 @@
         <lastBuildDate>Wed, 02 Oct 2002 08:00:00 EST</lastBuildDate>
         <webMaster>a21alcaed@iesgrancapitan.org</webMaster>
         <skipDays>
-        <day>Sunday</day>
-        <day>Saturday</day>
+            <day>Sunday</day>
+            <day>Saturday</day>
         </skipDays>
         <skipHours>
-        <hour>0</hour>
-        <hour>1</hour>
-        <hour>2</hour>
-        <hour>3</hour>
-        <hour>4</hour>
-        <hour>5</hour>
+            <hour>0</hour>
+            <hour>1</hour>
+            <hour>2</hour>
+            <hour>3</hour>
+            <hour>4</hour>
+            <hour>5</hour>
         </skipHours>
         <image>
-        <url>https://github.com/EdgeFF/RSS/blob/main/mando.jpg</url>
-        <title>E-play</title>
-        <link>https://github.com/EdgeFF/RSS/blob/main/mando.jpg</link>
+            <url>https://github.com/EdgeFF/RSS/blob/main/mando.jpg</url>
+            <title>E-play</title>
+            <link>https://github.com/EdgeFF/RSS/blob/main/mando.jpg</link>
         </image>
     <item>
         <title>GTA6</title>
