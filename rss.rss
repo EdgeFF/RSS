@@ -4,15 +4,71 @@
     <title>Bienvenidos a E-Play</title>
         <link>https://github.com/EdgeFF/RSS/blob/main/rss.rss</link>
         <description>Tu RSS sobre lo ultimo en videojuegos</description>
+        <copyright>Eduardo Albano Carmona</copyright>
+        <language>es-es</language>
+        <lastBuildDate>Wed, 02 Oct 2002 08:00:00 EST</lastBuildDate>
+        <webMaster>a21alcaed@iesgrancapitan.org</webMaster>
+        <skipDays>
+        <day>Sunday</day>
+        <day>Saturday</day>
+        </skipDays>
+        <skipHours>
+        <hour>0</hour>
+        <hour>1</hour>
+        <hour>2</hour>
+        <hour>3</hour>
+        <hour>4</hour>
+        <hour>5</hour>
+        </skipHours>
+        <image>
+        <url>https://github.com/EdgeFF/RSS/blob/main/mando.jpg</url>
+        <title>E-play</title>
+        <link>https://github.com/EdgeFF/RSS/blob/main/mando.jpg</link>
+        </image>
     <item>
         <title>GTA6</title>
         <link>https://github.com/EdgeFF/RSS/blob/main/rss.rss</link>
         <description>Rockstar anuncia su futura nueva entrega tan esperada, y los jugadores especulan sobre un posible GTA6</description>
+        <author>a21alcaed@iesgrancapitan.org</author>
+        <enclosure url="https://phantom-marca.unidadeditorial.es/a872942aab80d3f12c3dd1d938b7008d/crop/0x0/636x358/resize/1320/f/jpg/assets/multimedia/imagenes/2021/05/25/16219346923877.jpg"
+        length="78645" type="image/jpg"></enclosure>
+        <pubDate>Wed, 02 Oct 2002 08:00:00 EST</pubDate>
+        <source url="https://www.rockstargames.com/es/">Rockstar</source>
+    
     </item>
-    <item>
+    <category>MMOs</category>
+        <item>
         <title>Lost ARK</title>
         <link>https://github.com/EdgeFF/RSS/blob/main/rss.rss</link>
         <description>Lanzamiento exitoso del esperado Lost ARK, con la saturacion de servidores que ello conlleva</description>
+        <author>a21alcaed@iesgrancapitan.org</author>
+        <enclosure url="https://images.ctfassets.net/umhrp0op95v1/35MgqFXJTZ6FVw1kcx8WMB/1a392048db08bc65d99e128d3d0f6fd0/LostArk_HP_BG_MOBILE2.png"
+        length="78645" type="image/png"></enclosure>
+        <pubDate>Wed, 02 Oct 2002 13:00:00 GMT</pubDate>
+        <source url="https://www.playlostark.com/es-es/">Lost Ark</source>
+
+
+    </item>
+    <item>
+        <title>Final Fantasy XIV</title>
+        <link>https://github.com/EdgeFF/RSS/blob/main/rss.rss</link>
+        <description>El MMO mas exitoso a nivel mundial anuncia su nuevo evento para San Valentín</description>
+        <author>a21alcaed@iesgrancapitan.org</author>
+         <enclosure url="https://image.api.playstation.com/vulcan/img/rnd/202105/1414/4IfMDkNronZoUUWW6KeHxz2I.png"
+        length="78645" type="image/png"></enclosure>
+        <pubDate>Wed, 02 Oct 2002 13:00:00 GMT</pubDate>
+         <source url="https://www.finalfantasyxiv.com/">FFXIV</source>
+    </item>
+    
+    <item>
+        <title>Celeste</title>
+        <link>https://github.com/EdgeFF/RSS/blob/main/rss.rss</link>
+        <description>Celeste el juego de plataformas nos pondra el reto de escalar una gran montaña</description>
+        <author>a21alcaed@iesgrancapitan.org</author>
+        <enclosure url="https://image.api.playstation.com/cdn/EP2120/CUSA11235_00/c439UdvQsGkHpQ04PGyPh7rwGfXwLtne.png"
+        length="78645" type="image/png"></enclosure>
+        <pubDate>Wed, 02 Oct 2002 13:00:00 GMT</pubDate>
+        <source url="https://store.steampowered.com/app/504230/Celeste/">Celeste</source>
     </item>
 </channel>
 </rss>
