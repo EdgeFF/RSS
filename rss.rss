@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+<channel>
+    <title>Bienvenidos a E-Play</title>
+        <link>https://github.com/EdgeFF/RSS/blob/main/rss.rss</link>
+        <description>Tu RSS sobre lo ultimo en videojuegos</description>
+    <item>
+        <title>GTA6</title>
+        <link>https://github.com/EdgeFF/RSS/blob/main/rss.rss</link>
+        <description>Rockstar anuncia su futura nueva entrega tan esperada, y los jugadores especulan sobre un posible GTA6</description>
+    </item>
+    <item>
+        <title>Lost ARK</title>
+        <link>https://github.com/EdgeFF/RSS/blob/main/rss.rss</link>
+        <description>Lanzamiento exitoso del esperado Lost ARK, con la saturacion de servidores que ello conlleva</description>
+    </item>
+</channel>
+</rss>
